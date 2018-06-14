@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_7e96c530913b7eba25201e564ab0c34baf3aef54.jar" />
+    </item>
+    <item
+        jar="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-21.0.3_1ae96265434c637b184916a5b86ef9bf672d6c5b.jar" />
+    </item>
+    <item
+        jar="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98dc34a6cae609feef2098a99083b99a2c4c4abf">
+        <dex dex="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/pre-dexed/debug/instant-run_85e165a2774bf93611ed77be774fa6512831cd14.jar" />
+    </item>
+    <item
+        jar="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_2186ea8ba568eb9a451fe6e8d6f4cf1b71a39e17.jar" />
+    </item>
+    <item
+        jar="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_9680c2c74ea776e8f457179cac0eb5f888792e8b.jar" />
+    </item>
+    <item
+        jar="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="78ebd6545569ea921228e985454d3493ee352882">
+        <dex dex="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d1ca8c18878a7ecf76a941055824d6bfabcc4a64.jar" />
+    </item>
+    <item
+        jar="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_fffd7a5692316c23b81c3e7939e5ea6e9ac52f36.jar" />
+    </item>
+    <item
+        jar="/home/kiran/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_13b085123869ec46374f1812694eb8b326be3937.jar" />
+    </item>
+    <item
+        jar="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_17653faa85b7af3c17b7c9bc23c979f4de15146a.jar" />
+    </item>
+    <item
+        jar="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_3a3bc5bb1e29b489e81b493efd6a784eaf6c2340.jar" />
+    </item>
+    <item
+        jar="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/kiran/Dropbox/AndroidStudioProjects/TourGuide/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_45fba167474508afdeb26f48578f7701f927880c.jar" />
+    </item>
+
+</items>
